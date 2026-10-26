@@ -1,2 +1,2 @@
 This is my first feature branch.
-Learning Git branching and merging.
+Learning Git branching and merging .
